@@ -1,10 +1,10 @@
 # dio_desafio_excel2
 Desafio da DIO: Criando Um Organizador de Declaração de Imposto de Renda
 
-# 🦁 Nathy IR - Agregador de Dados para Imposto de Renda
+# 🦁 Nathy Rendas - Agregador de Dados para Imposto de Renda
 
 ## 📝 Descrição do Projeto
-O **Nathy IR** é uma ferramenta estratégica desenvolvida em Excel, desenhada para simplificar o processo de coleta e organização de informações para a Declaração de Ajuste Anual do IRPF. Este projeto foi criado como parte do desafio prático da **DIO (Digital Innovation One)**, aplicando conceitos de organização de dados, validação e design de interface (UI/UX).
+O **Nathy Rendas** é uma ferramenta estratégica desenvolvida em Excel, desenhada para simplificar o processo de coleta e organização de informações para a Declaração de Ajuste Anual do IRPF. Este projeto foi criado como parte do desafio prático da **DIO (Digital Innovation One)**, aplicando conceitos de organização de dados, validação e design de interface (UI/UX).
 
 O objetivo principal é evitar a fragmentação de documentos, reunindo em um único lugar dados cadastrais, informes de rendimentos e movimentações em bolsa de valores.
 
